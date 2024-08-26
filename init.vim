@@ -17,7 +17,7 @@ Plug 'https://github.com/sainnhe/gruvbox-material'
 Plug 'https://github.com/tpope/vim-commentary'
 Plug 'https://github.com/preservim/tagbar'
 Plug 'https://github.com/Townk/vim-autoclose'
-Plug 'https://github.com/m4xshen/autoclose.nvim'
+" Plug 'https://github.com/m4xshen/autoclose.nvim'
 
 call plug#end()
 
