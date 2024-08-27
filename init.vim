@@ -16,7 +16,7 @@ Plug 'https://github.com/neoclide/coc.nvim'
 Plug 'https://github.com/sainnhe/gruvbox-material'
 Plug 'https://github.com/tpope/vim-commentary'
 Plug 'https://github.com/preservim/tagbar'
-Plug 'Plug 'https://github.com/jiangmiao/auto-pairs''
+Plug 'https://github.com/jiangmiao/auto-pairs'
 
 call plug#end()
 
