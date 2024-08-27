@@ -10,14 +10,13 @@ set encoding=UTF-8
 
 call plug#begin()
 
-" Plug 'https://github.com/neoclide/coc.nvim'
+Plug 'https://github.com/neoclide/coc.nvim'
 " Plug 'neoclide/coc.nvim', {'branch': 'master', 'do': 'npm ci'}
-Plug 'neoclide/coc.nvim', {'branch': 'release'}
+" Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'https://github.com/sainnhe/gruvbox-material'
 Plug 'https://github.com/tpope/vim-commentary'
 Plug 'https://github.com/preservim/tagbar'
-Plug 'https://github.com/Townk/vim-autoclose'
-" Plug 'https://github.com/m4xshen/autoclose.nvim'
+Plug 'Plug 'https://github.com/jiangmiao/auto-pairs''
 
 call plug#end()
 
